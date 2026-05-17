@@ -11,14 +11,7 @@ My primary goal is to master Rust to build high-performance, memory-safe systems
 ## 🚀 The Plan
 To maintain momentum and ensure consistent growth, I am committing to:
 1.  **Daily Code:** Writing and pushing Rust code every single day to maintain an unbroken activity streak.
-2.  **Progressive Complexity:** Moving from basic syntax and `rustlings` exercises to building CLI tools and small distributed systems.
-3.  **Public Accountability:** Documenting my daily learnings, roadblocks, and breakthroughs right here.
-
-## 📖 The Daily Log
-
-| Day | Date | Topic / Focus | Key Takeaway | Link to Code |
-| :---: | :---: | :--- | :--- | :--- |
-| **01** | May 16 | Setup & The Basics | Installed `cargo` and `rustc`. Wrote the mandatory Hello World and played with basic variable mutability. | [Day 1](./day_01) |
+2.  **Progressive Complexity:** Moving from basic syntax and `rustlings` exercises to building CLI tools and distributed systems.
 
 ## 🛠️ Resources & Materials
 *   [The Rust Programming Language (The Book)](https://doc.rust-lang.org/book/)
